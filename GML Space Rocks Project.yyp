@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Space Rocks Project",
   "resources": [
+    {"id":{"name":"spr_Ship","path":"sprites/spr_Ship/spr_Ship.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
