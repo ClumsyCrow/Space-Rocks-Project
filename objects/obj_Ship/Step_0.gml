@@ -10,7 +10,7 @@ if(keyboard_check(ord("D")))
 
 if(keyboard_check(ord("W")))
 {
-	motion_add(image_angle, 1);
+	motion_add(image_angle, 0.05);
 }
 
 move_wrap(true,true,sprite_width/2);
