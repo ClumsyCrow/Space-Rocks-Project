@@ -28,7 +28,7 @@ switch(room)
 		
 	case rm_win:
 		draw_set_halign(fa_center);	
-	var c = c_silver;
+	var c = c_teal;
 		draw_text_transformed_color(
 			room_width/2, 200, "A WINNER IS YOU!"
 			,3,3,0,c,c,c,c,1
