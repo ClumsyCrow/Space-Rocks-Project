@@ -8,6 +8,7 @@
     {"id":{"name":"spr_Asteroid_Small","path":"sprites/spr_Asteroid_Small/spr_Asteroid_Small.yy",},"order":1,},
     {"id":{"name":"spr_Asteroid_Medium","path":"sprites/spr_Asteroid_Medium/spr_Asteroid_Medium.yy",},"order":2,},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
+    {"id":{"name":"snd_explosion","path":"sounds/snd_explosion/snd_explosion.yy",},"order":0,},
     {"id":{"name":"spr_Toatally_A_Bullet","path":"sprites/spr_Toatally_A_Bullet/spr_Toatally_A_Bullet.yy",},"order":4,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":1,},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},"order":3,},

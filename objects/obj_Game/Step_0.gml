@@ -11,7 +11,7 @@ if(keyboard_check_pressed(vk_enter)){
 	}
 }
 if(room == rm_game){
-	if (score >= 1000){
+	if (score >= 500){
 		room_goto(rm_win);
 	}
 
