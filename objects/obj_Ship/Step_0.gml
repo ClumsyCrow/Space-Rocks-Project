@@ -21,3 +21,14 @@ if(keyboard_check_pressed(vk_space))
 }
 
 move_wrap(true,true,sprite_width/2);
+
+if(keyboard_check(vk_decimal)) && (keyboard_check(ord("P")))
+{
+	if(keyboard_check(vk_f12)){
+		var inst = instance_create_layer(x,y, "Instances", obj_Bullet);
+		inst.direction = image_angle;
+			if(keyboard_check_pressed(vk_f12)){
+				audio_play_sound(errrrrrrr, 3, false);
+			}
+		}
+}

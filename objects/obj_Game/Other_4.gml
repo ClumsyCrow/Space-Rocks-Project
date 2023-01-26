@@ -1,5 +1,10 @@
 if(room == rm_game)
 {
+	
+	if(audio_is_playing(snd_space_song)){
+		audio_stop_sound(snd_space_song);
+	}
+	audio_play_sound(snd_space_song, 2, true);
 	repeat(6){
 		var xx = choose(
 			irandom_range(0, room_width*0.3),

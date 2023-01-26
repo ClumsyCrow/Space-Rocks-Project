@@ -14,7 +14,7 @@ switch(room)
 		);
 		draw_text(
 			room_width/2, 200,
-			@"  Score 1,000 points to win!
+			@"  Score 500 points to win!
 
       W to accelerate
        A/D to rotate 
